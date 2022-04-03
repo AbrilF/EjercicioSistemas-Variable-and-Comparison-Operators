@@ -14,7 +14,10 @@
 - List all variables currently loaded in to memory. The noun within the cmdlet is “Variable” Notes:
 ---
 1. Get-Variable .
-- ![image](https://user-images.githubusercontent.com/72273897/161446498-703e7d64-93dc-453f-94b7-e7df3bbf89c4.png)
+- ![image](https://user-images.githubusercontent.com/72273897/161446955-788795f6-f68b-4b97-bdd6-03c96f865d6b.png)
+- ![image](https://user-images.githubusercontent.com/72273897/161446897-05e985a3-99f2-4ead-92f7-f49c9dfb1a3b.png)
+- ![image](https://user-images.githubusercontent.com/72273897/161446930-aab28cd4-aecd-4fa4-afd6-eba1243fb0bc.png)
+
 ---
 # Task 3 #
 - Multiple two Int variables together PowerShell can perform basic maths operators, such as “+”, “-“ and “*” Notes:
